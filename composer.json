@@ -1,0 +1,25 @@
+{
+  "name": "dragonfly/module-order-comment",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "authors": [
+    {
+      "name": "magefast",
+      "email": "magefast@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": ["registration.php"],
+    "psr-4": {
+      "Dragonfly\\OrderComment\\": ""
+    }
+  }
+}
