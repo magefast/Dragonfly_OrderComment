@@ -1,6 +1,6 @@
 {
   "name": "magefast-dragonfly/module-order-comment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum-stability": "dev",
   "description": "N/A",
   "type": "magento2-module",
